@@ -364,7 +364,7 @@
             'color: white;' +
             'font: 10px arial, san serif;' +
             'text-align: left;' +
-            'white-space: nowrap;' +
+            ' </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li> </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: nowrap;' +
             'padding: 5px;' +
             'border: 1px solid white;' +
             'z-index: 10000;' +

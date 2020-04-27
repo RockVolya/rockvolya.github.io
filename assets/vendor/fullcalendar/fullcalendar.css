@@ -178,7 +178,7 @@ NOTE: use percentage font sizes or else old IE chokes
 
 	/* text & cursor */
 	font-size: 1em; /* normalize */
-	white-space: nowrap;
+	 </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li> </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: nowrap;
 	cursor: pointer;
 }
 
@@ -732,7 +732,7 @@ tr:first-child > td > .fc-day-grid-event {
 }
 
 .fc-day-grid-event .fc-content { /* force events to be one-line tall */
-	white-space: nowrap;
+	 </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li> </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: nowrap;
 	overflow: hidden;
 }
 
@@ -998,7 +998,7 @@ a.fc-more:hover {
 .fc .fc-axis { /* .fc to overcome default cell styles */
 	vertical-align: middle;
 	padding: 0 4px;
-	white-space: nowrap;
+	 </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li> </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: nowrap;
 }
 
 .fc-ltr .fc-axis {
@@ -1196,14 +1196,14 @@ be a descendant of the grid when it is being dragged.
 
 .fc-time-grid-event .fc-time {
 	font-size: .85em;
-	white-space: nowrap;
+	 </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li> </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: nowrap;
 }
 
 /* short mode, where time and title are on the same line */
 
 .fc-time-grid-event.fc-short .fc-content {
 	/* don't wrap to second line (now that contents will be inline) */
-	white-space: nowrap;
+	 </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li> </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: nowrap;
 }
 
 .fc-time-grid-event.fc-short .fc-time,
@@ -1367,7 +1367,7 @@ be a descendant of the grid when it is being dragged.
 
 .fc-list-item-marker,
 .fc-list-item-time {
-	white-space: nowrap;
+	 </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li> </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: nowrap;
 	width: 1px;
 }
 

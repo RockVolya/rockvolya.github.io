@@ -285,7 +285,7 @@ legend {
   font-size: 1.5rem;
   line-height: inherit;
   color: inherit;
-  white-space: normal;
+   </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: normal;
 }
 
 progress {

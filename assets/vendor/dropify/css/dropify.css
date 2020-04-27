@@ -171,7 +171,7 @@
       letter-spacing: -0.03em;
       font-size: 13px;
       width: 42px;
-      white-space: nowrap;
+       </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li> </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: nowrap;
       overflow: hidden;
       text-overflow: ellipsis; }
     .dropify-wrapper .dropify-preview .dropify-infos {
@@ -201,7 +201,7 @@
           margin: 0;
           position: relative;
           width: 100%;
-          white-space: nowrap;
+           </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li> </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: nowrap;
           overflow: hidden;
           text-overflow: ellipsis;
           color: #FFF;
@@ -270,7 +270,7 @@
             margin: 0;
             position: relative;
             width: 100%;
-            white-space: nowrap;
+             </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li> </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: nowrap;
             overflow: hidden;
             text-overflow: ellipsis;
             color: #777;

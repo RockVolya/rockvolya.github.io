@@ -198,7 +198,7 @@
 	width: 2em;
 	box-sizing: border-box;
 	text-indent: -9999px;
-	white-space: nowrap;
+	 </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li> </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: nowrap;
 }
 
 /* no icon support for input elements */
@@ -220,7 +220,7 @@ input.ui-button.ui-button-icon-only {
 	width: 2.1em;
 	height: 2.1em;
 	text-indent: -9999px;
-	white-space: nowrap;
+	 </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li> </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: nowrap;
 
 }
 
@@ -228,7 +228,7 @@ input.ui-button.ui-icon-notext .ui-icon {
 	width: auto;
 	height: auto;
 	text-indent: 0;
-	white-space: normal;
+	 </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li> </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: normal;
 	padding: .4em 1em;
 }
 
@@ -505,7 +505,7 @@ button.ui-button::-moz-focus-inner {
 .ui-dialog .ui-dialog-title {
 	float: left;
 	margin: .1em 0;
-	white-space: nowrap;
+	 </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li> </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: nowrap;
 	width: 90%;
 	overflow: hidden;
 	text-overflow: ellipsis;
@@ -716,7 +716,7 @@ button.ui-button::-moz-focus-inner {
 }
 .ui-selectmenu-button.ui-button {
 	text-align: left;
-	white-space: nowrap;
+	 </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li> </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: nowrap;
 	width: 14em;
 }
 .ui-selectmenu-icon.ui-icon {
@@ -850,7 +850,7 @@ button.ui-button::-moz-focus-inner {
 	margin: 1px .2em 0 0;
 	border-bottom-width: 0;
 	padding: 0;
-	white-space: nowrap;
+	 </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li> </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: nowrap;
 }
 .ui-tabs .ui-tabs-nav .ui-tabs-anchor {
 	float: left;

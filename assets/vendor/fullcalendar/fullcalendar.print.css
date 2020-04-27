@@ -167,7 +167,7 @@
 
 /* undo a previous declaration and let the time text span to a second line */
 .fc-time-grid .fc-event .fc-time {
-	white-space: normal !important;
+	 </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li> </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: normal !important;
 }
 
 /* hide the the time that is normally displayed... */

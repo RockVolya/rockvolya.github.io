@@ -15,7 +15,7 @@ table.dataTable th.dataTables_empty {
 }
 table.dataTable.nowrap th,
 table.dataTable.nowrap td {
-  white-space: nowrap;
+   </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li> </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: nowrap;
 }
 
 div.dataTables_wrapper div.row.uk-grid.dt-merge-grid {
@@ -24,7 +24,7 @@ div.dataTables_wrapper div.row.uk-grid.dt-merge-grid {
 div.dataTables_wrapper div.dataTables_length label {
   font-weight: normal;
   text-align: left;
-  white-space: nowrap;
+   </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li> </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: nowrap;
 }
 div.dataTables_wrapper div.dataTables_length select {
   width: 75px;
@@ -35,7 +35,7 @@ div.dataTables_wrapper div.dataTables_filter {
 }
 div.dataTables_wrapper div.dataTables_filter label {
   font-weight: normal;
-  white-space: nowrap;
+   </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li> </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: nowrap;
   text-align: left;
 }
 div.dataTables_wrapper div.dataTables_filter input {
@@ -45,16 +45,16 @@ div.dataTables_wrapper div.dataTables_filter input {
 }
 div.dataTables_wrapper div.dataTables_info {
   padding-top: 8px;
-  white-space: nowrap;
+   </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li> </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: nowrap;
 }
 div.dataTables_wrapper div.dataTables_paginate {
   margin: 0;
-  white-space: nowrap;
+   </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li> </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: nowrap;
   text-align: right;
 }
 div.dataTables_wrapper div.dataTables_paginate ul.pagination {
   margin: 2px 0;
-  white-space: nowrap;
+   </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li> </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: nowrap;
 }
 div.dataTables_wrapper div.dataTables_processing {
   position: absolute;

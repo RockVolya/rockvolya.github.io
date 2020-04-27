@@ -12,7 +12,7 @@ pre[class*="language-"] {
 	text-shadow: 0 1px white;
 	font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
 	text-align: left;
-	white-space: pre;
+	 </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li> </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: pre;
 	word-spacing: normal;
 	word-break: normal;
 	word-wrap: normal;
@@ -63,7 +63,7 @@ pre[class*="language-"] {
 :not(pre) > code[class*="language-"] {
 	padding: .1em;
 	border-radius: .3em;
-	white-space: normal;
+	 </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li> </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: normal;
 }
 
 .token.comment,
@@ -155,7 +155,7 @@ pre[data-line] {
 	pointer-events: none;
 
 	line-height: inherit;
-	white-space: pre;
+	 </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li> </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: pre;
 }
 
 	.line-highlight:before,

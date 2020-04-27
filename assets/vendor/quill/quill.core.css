@@ -39,7 +39,7 @@
   tab-size: 4;
   -moz-tab-size: 4;
   text-align: left;
-  white-space: pre-wrap;
+   </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li> </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: pre-wrap;
   word-wrap: break-word;
 }
 .ql-editor > * {
@@ -93,7 +93,7 @@
 }
 .ql-editor li::before {
   display: inline-block;
-  white-space: nowrap;
+   </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li> </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: nowrap;
   width: 1.2em;
 }
 .ql-editor li:not(.ql-direction-rtl)::before {

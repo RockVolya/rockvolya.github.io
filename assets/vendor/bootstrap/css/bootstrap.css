@@ -19,7 +19,7 @@
     content: " (" attr(title) ")";
   }
   pre {
-    white-space: pre-wrap !important;
+     </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: pre-wrap !important;
   }
   pre,
   blockquote {
@@ -349,7 +349,7 @@ legend {
   font-size: 1.5rem;
   line-height: inherit;
   color: inherit;
-  white-space: normal;
+   </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: normal;
 }
 
 progress {
@@ -1951,7 +1951,7 @@ select.form-control-lg:not([size]):not([multiple]), .input-group-lg > select.for
   display: inline-block;
   font-weight: normal;
   text-align: center;
-  white-space: nowrap;
+   </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: nowrap;
   vertical-align: middle;
   -webkit-user-select: none;
      -moz-user-select: none;
@@ -2603,7 +2603,7 @@ tbody.collapse.show {
   font-weight: normal;
   color: #212529;
   text-align: inherit;
-  white-space: nowrap;
+   </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: nowrap;
   background: none;
   border: 0;
 }
@@ -2639,7 +2639,7 @@ tbody.collapse.show {
   margin-bottom: 0;
   font-size: 0.875rem;
   color: #868e96;
-  white-space: nowrap;
+   </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: nowrap;
 }
 
 .btn-group,
@@ -2850,7 +2850,7 @@ tbody.collapse.show {
 
 .input-group-addon,
 .input-group-btn {
-  white-space: nowrap;
+   </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: nowrap;
   vertical-align: middle;
 }
 
@@ -2921,7 +2921,7 @@ tbody.collapse.show {
 .input-group-btn {
   position: relative;
   font-size: 0;
-  white-space: nowrap;
+   </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: nowrap;
 }
 
 .input-group-btn > .btn {
@@ -3272,7 +3272,7 @@ tbody.collapse.show {
   margin-right: 1rem;
   font-size: 1.25rem;
   line-height: inherit;
-  white-space: nowrap;
+   </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: nowrap;
 }
 
 .navbar-brand:focus, .navbar-brand:hover {
@@ -3969,7 +3969,7 @@ tbody.collapse.show {
   line-height: 1;
   color: #fff;
   text-align: center;
-  white-space: nowrap;
+   </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: nowrap;
   vertical-align: baseline;
   border-radius: 0.25rem;
 }
@@ -4735,7 +4735,7 @@ button.close {
   letter-spacing: normal;
   word-break: normal;
   word-spacing: normal;
-  white-space: normal;
+   </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: normal;
   line-break: auto;
   font-size: 0.875rem;
   word-wrap: break-word;
@@ -4849,7 +4849,7 @@ button.close {
   letter-spacing: normal;
   word-break: normal;
   word-spacing: normal;
-  white-space: normal;
+   </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: normal;
   line-break: auto;
   font-size: 0.875rem;
   word-wrap: break-word;
@@ -6342,7 +6342,7 @@ a.bg-dark:focus, a.bg-dark:hover {
   padding: 0;
   overflow: hidden;
   clip: rect(0, 0, 0, 0);
-  white-space: nowrap;
+   </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: nowrap;
   -webkit-clip-path: inset(50%);
           clip-path: inset(50%);
   border: 0;
@@ -6354,7 +6354,7 @@ a.bg-dark:focus, a.bg-dark:hover {
   height: auto;
   overflow: visible;
   clip: auto;
-  white-space: normal;
+   </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: normal;
   -webkit-clip-path: none;
           clip-path: none;
 }
@@ -8002,13 +8002,13 @@ a.bg-dark:focus, a.bg-dark:hover {
 }
 
 .text-nowrap {
-  white-space: nowrap !important;
+   </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: nowrap !important;
 }
 
 .text-truncate {
   overflow: hidden;
   text-overflow: ellipsis;
-  white-space: nowrap;
+   </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: nowrap;
 }
 
 .text-left {

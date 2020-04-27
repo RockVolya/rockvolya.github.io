@@ -474,7 +474,7 @@ pre {
 }
 
 code {
-  white-space: nowrap;
+   </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: nowrap;
   color: #ba5e63;
 }
 
@@ -1167,7 +1167,7 @@ img {
 
 .teaser figcaption > a {
   text-indent: 200%;
-  white-space: nowrap;
+   </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: nowrap;
   font-size: 0;
   opacity: 0;
 }
@@ -2140,7 +2140,7 @@ img {
   position: static;
   z-index: auto;
   text-indent: 0;
-  white-space: nowrap;
+   </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: nowrap;
   font-size: inherit;
   opacity: 1;
 }
@@ -3313,7 +3313,7 @@ img {
 .toast .text {
   flex-basis: 1;
   font-weight: 400;
-  white-space: nowrap;
+   </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: nowrap;
   margin-right: 48px;
 }
 
@@ -3902,11 +3902,11 @@ img {
   flex-shrink: 1;
   -webkit-box-flex: 1;
           flex-grow: 1;
-  white-space: normal;
+   </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: normal;
   padding-left: 12px;
   line-height: 1.25rem;
   font-weight: 300;
-  white-space: nowrap;
+   </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: nowrap;
 }
 
 .nav-process-block .nav-title {
@@ -5590,7 +5590,7 @@ progress {
   display: flex;
   font-weight: 300;
   font-size: 15px;
-  white-space: nowrap;
+   </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
   margin-left: 8px;
@@ -9504,7 +9504,7 @@ button.list-group-item:hover {
   color: #929daf;
   line-height: 33px;
   padding: 0px 12px;
-  white-space: nowrap;
+   </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: nowrap;
 }
 
 .nav-link:hover, .nav-link:focus, .nav-link.active {
@@ -12721,7 +12721,7 @@ select.form-control-lg:not([size]):not([multiple]) {
   font-weight: 300;
   padding: 0;
   pointer-events: none;
-  white-space: nowrap;
+   </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: nowrap;
   -webkit-transition: 0.3s;
   transition: 0.3s;
 }
@@ -13791,7 +13791,7 @@ select.form-control-lg:not([size]):not([multiple]) {
   margin-bottom: 0;
   line-height: 29px;
   cursor: pointer;
-  white-space: nowrap;
+   </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: nowrap;
 }
 
 .switch input {
@@ -14024,7 +14024,7 @@ select.form-control-lg:not([size]):not([multiple]) {
 
 .note-editor .dropdown-menu,
 .note-popover .dropdown-menu {
-  white-space: nowrap;
+   </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: nowrap;
   width: auto;
 }
 
@@ -15314,7 +15314,7 @@ ul.flexbox {
   padding: 1rem 20px 0.5rem;
   color: #fff;
   opacity: 0.7;
-  white-space: nowrap;
+   </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
 }
@@ -15362,7 +15362,7 @@ ul.flexbox {
   bottom: 0;
   width: 260px;
   background-color: #3f4a59;
-  white-space: nowrap;
+   </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: nowrap;
   -webkit-box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.08);
           box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.08);
   display: -webkit-box;
@@ -17190,7 +17190,7 @@ ul.flexbox {
   color: rgba(97, 106, 120, 0.7);
   cursor: pointer;
   min-width: 48px;
-  white-space: nowrap;
+   </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: nowrap;
   border: none;
   border-top: 1px solid transparent;
   -webkit-transition: .2s linear;
@@ -17412,7 +17412,7 @@ ul.flexbox {
   top: 20px;
   left: 0;
   padding: 0 12px;
-  white-space: nowrap;
+   </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: nowrap;
   opacity: .6;
   z-index: 1;
   -webkit-transition: .5s;
@@ -17474,7 +17474,7 @@ ul.flexbox {
 .topbar .menu {
   margin-left: 12px;
   margin-bottom: 0;
-  white-space: nowrap;
+   </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: nowrap;
 }
 
 .topbar .menu-item {
@@ -19565,7 +19565,7 @@ ul.flexbox {
 }
 
 .header-action .nav {
-  white-space: nowrap;
+   </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: nowrap;
   flex-wrap: nowrap;
   margin-bottom: 0;
   border-bottom: none;
@@ -21103,7 +21103,7 @@ a.text-danger:hover, a.text-danger:focus {
 }
 
 .no-wrap {
-  white-space: nowrap;
+   </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: nowrap;
   flex-wrap: nowrap;
 }
 
@@ -23493,7 +23493,7 @@ a.text-danger:hover, a.text-danger:focus {
 
 .text-truncate {
   width: auto;
-  white-space: nowrap;
+   </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
 }

@@ -144,7 +144,7 @@ table.dataTable.no-footer {
   border-bottom: 1px solid #111;
 }
 table.dataTable.nowrap th, table.dataTable.nowrap td {
-  white-space: nowrap;
+   </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li> </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: nowrap;
 }
 table.dataTable.compact thead th,
 table.dataTable.compact thead td {
@@ -177,7 +177,7 @@ table.dataTable td.dt-justify {
 }
 table.dataTable th.dt-nowrap,
 table.dataTable td.dt-nowrap {
-  white-space: nowrap;
+   </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li> </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: nowrap;
 }
 table.dataTable thead th.dt-head-left,
 table.dataTable thead td.dt-head-left,
@@ -207,7 +207,7 @@ table.dataTable thead th.dt-head-nowrap,
 table.dataTable thead td.dt-head-nowrap,
 table.dataTable tfoot th.dt-head-nowrap,
 table.dataTable tfoot td.dt-head-nowrap {
-  white-space: nowrap;
+   </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li> </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: nowrap;
 }
 table.dataTable tbody th.dt-body-left,
 table.dataTable tbody td.dt-body-left {
@@ -227,7 +227,7 @@ table.dataTable tbody td.dt-body-justify {
 }
 table.dataTable tbody th.dt-body-nowrap,
 table.dataTable tbody td.dt-body-nowrap {
-  white-space: nowrap;
+   </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li> </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: nowrap;
 }
 
 table.dataTable,

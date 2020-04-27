@@ -49,7 +49,7 @@ table.dataTable.table th.dataTables_empty {
 }
 table.dataTable.table.nowrap th,
 table.dataTable.table.nowrap td {
-  white-space: nowrap;
+   </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li> </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: nowrap;
 }
 
 div.dataTables_wrapper div.dataTables_length select {
@@ -64,7 +64,7 @@ div.dataTables_wrapper div.dataTables_filter input {
 }
 div.dataTables_wrapper div.dataTables_info {
   padding-top: 13px;
-  white-space: nowrap;
+   </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li> </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: nowrap;
 }
 div.dataTables_wrapper div.dataTables_processing {
   position: absolute;

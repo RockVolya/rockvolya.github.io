@@ -1110,7 +1110,7 @@ var Quill = function () {
         return _this2.editor.update(null, mutations, index);
       }, source);
     });
-    var contents = this.clipboard.convert('<div class=\'ql-editor\' style="white-space: normal;">' + html + '<p><br></p></div>');
+    var contents = this.clipboard.convert('<div class=\'ql-editor\' style=" </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li> </li><li class="menu-item"><a class="menu-link" href="test.html"><span class="title">Тест I</span></a></li><li class="menu-category">Глава II</li>: normal;">' + html + '<p><br></p></div>');
     this.setContents(contents);
     this.history.clear();
     if (this.options.placeholder) {
